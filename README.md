@@ -14,6 +14,7 @@ The TelePresence Robot Project
 * ☑ 12v-DC Motor - x2
 * Motor shield on L293D for Servos
   http://ali.onl/18hG
+  PinOut: https://www.youtube.com/watch?v=55M6bGIIQ-I
 * ☑ Servo
 * ☑ Wheels
 * ☑ Camera
