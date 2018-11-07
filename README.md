@@ -5,16 +5,27 @@ The TelePresence Robot Project
 
 ## components
 
-* Raspberry pi
-* Arduino
-* Motor shield
-* Wheels
-* Servo
-* Camera
+* ☑ Raspberry Pi (Model B?)
+** ☑ MicroSD Card
+* ☑ Arduino Uno
+* Motor shield on L298N for Motors
+  http://ali.pub/1a1zxx
+  PinOut: https://www.youtube.com/watch?v=esdXNN1mVTo
+* ☑ 12v-DC Motor - x2
+* Motor shield on L293D for Servos
+  http://ali.onl/18hG
+* ☑ Servo
+* ☑ Wheels
+* ☑ Camera
 * Microphone
-* Speakers
-* Lights
+* ☑ Speakers
+* ☑ LEDs
 * Battery
-* Charger
-* Bumper
+* Charger for 12V-DC Battery
+* 12v-DC -> 5v-DC Voltage Step-Down Converter
+* Bumper sensor
 * Laser pointer
+
+## links
+
+* https://arduinomaster.ru/datchiki-arduino/drajver-dvigatelya-i-motor-shield-arduino/
