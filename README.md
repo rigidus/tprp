@@ -1,2 +1,2 @@
 # tprp
-The TelePresence Robot Projetc
+The TelePresence Robot Project
