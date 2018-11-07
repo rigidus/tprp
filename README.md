@@ -19,6 +19,7 @@ The TelePresence Robot Project
 * ☑ Wheels
 * ☑ Camera
 * Microphone
+* Display
 * ☑ Speakers
 * ☑ LEDs
 * Battery
